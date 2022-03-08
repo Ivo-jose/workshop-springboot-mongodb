@@ -1,4 +1,4 @@
-package com.ivogoncalves.workshopmongo.resource.exception;
+package com.ivogoncalves.workshopmongo.resources.exception;
 
 import java.io.Serializable;
 
